@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-http://d.tvdark.eu:80/xn8agwBT/dpyzpwn/41512
+http://d.tvdark.eu:80/live/xn8agwBT/dpyzpwn/41512.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-http://d.tvdark.eu:80/xn8agwBT/dpyzpwn/41535
+http://d.tvdark.eu:80/live/xn8agwBT/dpyzpwn/41535.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
-http://d.tvdark.eu:80/xn8agwBT/dpyzpwn/41534
+http://d.tvdark.eu:80/live/xn8agwBT/dpyzpwn/41534.m3u8
